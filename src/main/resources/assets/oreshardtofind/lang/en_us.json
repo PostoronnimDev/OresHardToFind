@@ -1,0 +1,41 @@
+{
+  "block.oreshardtofind.gold_sand_block": "Gold Sand",
+  "block.oreshardtofind.gold_gravel_block": "Gold Gravel",
+  "block.oreshardtofind.gold_clay_block": "Gold Clay",
+
+  "block.oreshardtofind.shrieking_diamond_ore": "Shrieking Diamond Ore",
+  "block.oreshardtofind.sus_deepslate_iron_ore": "Suspicious Deepslate Iron Ore",
+  "block.oreshardtofind.calcite_lapis_ore": "Calcite Lapis Ore",
+
+  "block.oreshardtofind.magnetite_block": "Magnetite Block",
+  "block.oreshardtofind.magnetite_gravel_block": "Magnetite Gravel",
+  "block.oreshardtofind.magnetite_sand_block": "Magnetite Sand",
+
+  "block.oreshardtofind.uncharged_magnet": "Uncharged Magnet",
+  "block.oreshardtofind.charged_magnet": "§bCharged Magnet",
+
+  "item.oreshardtofind.magnetite_shard": "Magnetite Shard",
+
+  "item.oreshardtofind.copper_magnetometer": "Copper Magnetometer",
+  "item.oreshardtofind.iron_magnetometer": "§eIron Magnetometer",
+  "item.oreshardtofind.netherite_magnetometer": "§bNetherite Magnetometer",
+
+  "item.oreshardtofind.copper_sword": "Copper Sword",
+  "item.oreshardtofind.copper_pickaxe": "Copper Pickaxe",
+  "item.oreshardtofind.copper_shovel": "Copper Shovel",
+  "item.oreshardtofind.copper_axe": "Copper Axe",
+  "item.oreshardtofind.copper_hoe": "Copper Hoe",
+
+  "item.oreshardtofind.copper_helmet": "Copper Helmet",
+  "item.oreshardtofind.copper_chestplate": "Copper Chestplate",
+  "item.oreshardtofind.copper_leggings": "Copper Leggings",
+  "item.oreshardtofind.copper_boots": "Copper Boots",
+
+  "item.oreshardtofind.iron_ore_golem_spawn_egg": "Iron Ore Golem Egg",
+
+  "tooltip.oreshardtofind.uncharged_block.tooltip": "Can be charged with power of §e§oLightning§r!",
+
+  "itemgroup.oreshardtofind.oreshardtofind_items_group": "Ores Hard To Find",
+
+  "entity.oreshardtofind.iron_ore_golem": "Iron Ore Golem"
+}

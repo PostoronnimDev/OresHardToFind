@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "oreshardtofind:block/shrieking_diamond_ore"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "oreshardtofind:sus_ore_feature",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 1,
+    "targets": [
+      {
+        "state": {
+          "Name": "oreshardtofind:sus_deepslate_iron_ore"
+        },
+        "target": {
+          "block": "minecraft:deepslate_iron_ore",
+          "predicate_type": "minecraft:block_match"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "dusted=0": {
+      "model": "oreshardtofind:block/magnetite_sand_block_0"
+    },
+    "dusted=1": {
+      "model": "oreshardtofind:block/magnetite_sand_block_1"
+    },
+    "dusted=2": {
+      "model": "oreshardtofind:block/magnetite_sand_block_2"
+    },
+    "dusted=3": {
+      "model": "oreshardtofind:block/magnetite_sand_block_3"
+    }
+  }
+}

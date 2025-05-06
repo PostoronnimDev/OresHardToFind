@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "oreshardtofind:item/copper_chestplate_oxidised"
+  }
+}

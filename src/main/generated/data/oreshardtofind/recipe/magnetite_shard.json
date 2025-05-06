@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "oreshardtofind:magnetite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "oreshardtofind:magnetite_shard"
+  }
+}

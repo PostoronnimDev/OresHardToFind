@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:deepslate_iron_ore",
+    "minecraft:iron_ore",
+    "oreshardtofind:sus_deepslate_iron_ore",
+    "oreshardtofind:magnetite_block",
+    "oreshardtofind:uncharged_magnet",
+    "oreshardtofind:charged_magnet"
+  ]
+}

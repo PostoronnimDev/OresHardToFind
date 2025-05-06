@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "M": {
+      "item": "minecraft:lodestone"
+    }
+  },
+  "pattern": [
+    "GCG",
+    "GMG",
+    "GCG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oreshardtofind:netherite_magnetometer"
+  }
+}

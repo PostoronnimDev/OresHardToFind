@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "M": {
+      "item": "oreshardtofind:magnetite_shard"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "MIM",
+    "MMM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oreshardtofind:uncharged_magnet"
+  }
+}

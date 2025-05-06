@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "oreshardtofind:block/gold_gravel_block_0"
+  }
+}

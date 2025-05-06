@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "predicate": { "damage": 0.25 },
+      "model": "oreshardtofind:item/copper_leggings_exposed"
+    },
+    {
+      "predicate": { "damage": 0.5 },
+      "model": "oreshardtofind:item/copper_leggings_weathered"
+    },
+    {
+      "predicate": { "damage": 0.75 },
+      "model": "oreshardtofind:item/copper_leggings_oxidized"
+    }
+  ],
+  "textures": {
+    "layer0": "oreshardtofind:item/copper_leggings"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "oreshardtofind:water_adjacent_gold",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 5,
+    "targets": [
+      {
+        "state": {
+          "Name": "oreshardtofind:gold_sand_block",
+          "Properties": {
+            "dusted": "0"
+          }
+        },
+        "target": {
+          "block": "minecraft:sand",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "oreshardtofind:gold_gravel_block",
+          "Properties": {
+            "dusted": "0"
+          }
+        },
+        "target": {
+          "block": "minecraft:gravel",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "oreshardtofind:gold_clay_block",
+          "Properties": {
+            "dusted": "0"
+          }
+        },
+        "target": {
+          "block": "minecraft:clay",
+          "predicate_type": "minecraft:block_match"
+        }
+      }
+    ]
+  }
+}

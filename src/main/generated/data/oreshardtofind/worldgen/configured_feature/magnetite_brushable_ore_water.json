@@ -1,0 +1,33 @@
+{
+  "type": "oreshardtofind:water_adjacent_gold",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 5,
+    "targets": [
+      {
+        "state": {
+          "Name": "oreshardtofind:magnetite_gravel_block",
+          "Properties": {
+            "dusted": "0"
+          }
+        },
+        "target": {
+          "block": "minecraft:gravel",
+          "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "state": {
+          "Name": "oreshardtofind:magnetite_sand_block",
+          "Properties": {
+            "dusted": "0"
+          }
+        },
+        "target": {
+          "block": "minecraft:sand",
+          "predicate_type": "minecraft:block_match"
+        }
+      }
+    ]
+  }
+}
