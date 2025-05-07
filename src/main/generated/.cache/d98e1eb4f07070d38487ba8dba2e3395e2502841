@@ -1,4 +1,4 @@
-// 1.21.1	2025-05-06T20:23:24.3871191	Ores Hard To Find/Model Definitions
+// 1.21.1	2025-05-07T22:44:22.2202168	Ores Hard To Find/Model Definitions
 a2717aa4deee10a002202c7abe0601f6da9edb77 assets\oreshardtofind\models\block\gold_sand_block_1.json
 fa0c4f861f26f094023d79470e30a0c5dc81b063 assets\oreshardtofind\blockstates\uncharged_magnet.json
 4fd898fabbca65ce278d9f1627dd1de2a9078b6e assets\oreshardtofind\models\block\magnetite_sand_block_1.json
@@ -33,8 +33,8 @@ d02db6b9df2d615a52b8cfe5a611e5b9609fa3c4 assets\oreshardtofind\models\block\magn
 613d202a77869efa456eecf14000818aedfcb69f assets\oreshardtofind\blockstates\sus_deepslate_iron_ore.json
 304efeed6983683e2ae1add51cf3736371ac5d9a assets\oreshardtofind\models\block\magnetite_block.json
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets\oreshardtofind\models\item\iron_ore_golem_spawn_egg.json
-59b1476b29d0fbf8c13cf47c06aff4cfb177c7ae assets\oreshardtofind\blockstates\shrieking_diamond_ore.json
 1667020cf21faa30f8828ea789cff3e997dca600 assets\oreshardtofind\blockstates\calcite_lapis_ore.json
+59b1476b29d0fbf8c13cf47c06aff4cfb177c7ae assets\oreshardtofind\blockstates\shrieking_diamond_ore.json
 295c69b4f493a1bb0ce2d52a7cb09d94a147b1e3 assets\oreshardtofind\models\block\magnetite_sand_block_3.json
 91a33b6a461b7214c6326842ea22ea372de0ad80 assets\oreshardtofind\models\item\iron_magnetometer.json
 d2d180627f463ead985fdeeb9307b4755f4734e9 assets\oreshardtofind\models\item\gold_gravel_block.json
