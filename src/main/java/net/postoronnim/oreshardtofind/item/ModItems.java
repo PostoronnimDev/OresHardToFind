@@ -10,6 +10,9 @@ import net.postoronnim.oreshardtofind.item.custom.*;
 
 public class ModItems {
 
+    public static final Item STORMBRINGER_BOTTLE = registerItem("stormbringer_bottle",
+            new StormbringerBottleItem(new Item.Settings()));
+
     public static final Item IRON_ORE_GOLEM_SPAWN_EGG = registerItem("iron_ore_golem_spawn_egg",
             new SpawnEggItem(ModEntities.IRON_ORE_GOLEM, 0x3d3d43, 0xe2c0aa, new Item.Settings()));
 

@@ -35,6 +35,10 @@
 
   "item.oreshardtofind.iron_ore_golem_spawn_egg": "Iron Ore Golem Egg",
 
+  "item.oreshardtofind.stormbringer_bottle": "§eStormbringer Bottle",
+
+  "effect.oreshardtofind.stormbringer": "Stormbringer",
+
   "tooltip.oreshardtofind.uncharged_block.tooltip": "Can be charged with power of §e§oLightning§r!",
   "tooltip.oreshardtofind.lapis_compass.tooltip": "Points somewhere deep and dark...",
 

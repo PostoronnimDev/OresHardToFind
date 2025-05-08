@@ -12,6 +12,7 @@ import net.minecraft.item.Items;
 import net.minecraft.util.Identifier;
 import net.postoronnim.oreshardtofind.block.ModBlocks;
 import net.postoronnim.oreshardtofind.item.ModItems;
+import net.postoronnim.oreshardtofind.util.ModTags;
 
 import java.util.Optional;
 
@@ -39,6 +40,8 @@ public class ModModelProvider extends FabricModelProvider {
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
         itemModelGenerator.register(ModItems.IRON_ORE_GOLEM_SPAWN_EGG,
                 new Model(Optional.of(Identifier.of("item/template_spawn_egg")), Optional.empty()));
+
+        itemModelGenerator.register(ModItems.STORMBRINGER_BOTTLE, Models.GENERATED);
 
         itemModelGenerator.register(ModItems.MAGNETITE_SHARD, Models.GENERATED);
         itemModelGenerator.register(ModItems.COPPER_MAGNETOMETER, Models.HANDHELD);

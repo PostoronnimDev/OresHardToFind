@@ -21,14 +21,14 @@ public class ModItemGroups {
                         entries.add(ModBlocks.GOLD_SAND_BLOCK);
                         entries.add(ModBlocks.GOLD_GRAVEL_BLOCK);
                         entries.add(ModBlocks.GOLD_CLAY_BLOCK);
-                        entries.add(ModBlocks.SHRIEKING_DIAMOND_ORE);
-                        entries.add(ModBlocks.SUS_DEEPSLATE_IRON_ORE);
                         entries.add(ModBlocks.MAGNETITE_GRAVEL_BLOCK);
                         entries.add(ModBlocks.MAGNETITE_SAND_BLOCK);
-                        entries.add(ModBlocks.MAGNETITE_BLOCK);
+                        entries.add(ModBlocks.SUS_DEEPSLATE_IRON_ORE);
+                        entries.add(ModBlocks.CALCITE_LAPIS_ORE);
+                        entries.add(ModBlocks.SHRIEKING_DIAMOND_ORE);
                         entries.add(ModBlocks.UNCHARGED_MAGNET);
                         entries.add(ModBlocks.CHARGED_MAGNET);
-                        entries.add(ModBlocks.CALCITE_LAPIS_ORE);
+                        entries.add(ModBlocks.MAGNETITE_BLOCK);
 
                         //items
                         entries.add(ModItems.MAGNETITE_SHARD);
@@ -45,6 +45,7 @@ public class ModItemGroups {
                         entries.add(ModItems.IRON_MAGNETOMETER);
                         entries.add(ModItems.NETHERITE_MAGNETOMETER);
                         entries.add(ModItems.LAPIS_COMPASS);
+                        entries.add(ModItems.STORMBRINGER_BOTTLE);
 
                         //spawn eggs
                         entries.add(ModItems.IRON_ORE_GOLEM_SPAWN_EGG);

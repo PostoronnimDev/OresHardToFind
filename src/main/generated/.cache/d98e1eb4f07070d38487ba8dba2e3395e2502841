@@ -1,4 +1,4 @@
-// 1.21.1	2025-05-08T14:19:47.2848456	Ores Hard To Find/Model Definitions
+// 1.21.1	2025-05-08T19:15:27.017055	Ores Hard To Find/Model Definitions
 a2717aa4deee10a002202c7abe0601f6da9edb77 assets\oreshardtofind\models\block\gold_sand_block_1.json
 b183e3726bede3cba8800416388ca366bbcb217a assets\oreshardtofind\models\item\lapis_compass_02.json
 fa0c4f861f26f094023d79470e30a0c5dc81b063 assets\oreshardtofind\blockstates\uncharged_magnet.json
@@ -10,8 +10,8 @@ fa0c4f861f26f094023d79470e30a0c5dc81b063 assets\oreshardtofind\blockstates\uncha
 f950b7adb3978de87272fd6e7d39807c8fb6f273 assets\oreshardtofind\models\block\gold_clay_block_2.json
 76aa15f840d8d7e30b60d76bea6dc0fcc75ccae3 assets\oreshardtofind\models\item\calcite_lapis_ore.json
 11b9e15a3325fa9d035e540da85eb47c69bb784b assets\oreshardtofind\models\block\gold_sand_block_2.json
-3eab316e2aceeafe71266226c77c1e18fed5aa03 assets\oreshardtofind\models\block\magnetite_sand_block_0.json
 14ab5855bd06527ee2c1bd882f9203b2f5196ad5 assets\oreshardtofind\models\item\magnetite_sand_block.json
+3eab316e2aceeafe71266226c77c1e18fed5aa03 assets\oreshardtofind\models\block\magnetite_sand_block_0.json
 fe761c980c024e22944d4790db31fe81168c3d55 assets\oreshardtofind\models\item\lapis_compass_25.json
 6fdb53d5f6edaee235b2b71e95c92dca89f9233c assets\oreshardtofind\models\item\gold_clay_block.json
 7a1785ee4c28c97898a72047044100f27012fc51 assets\oreshardtofind\models\item\lapis_compass_17.json
@@ -60,6 +60,7 @@ c86e41463b91c3c49217af65a1561e7d3569e214 assets\oreshardtofind\models\item\lapis
 91a33b6a461b7214c6326842ea22ea372de0ad80 assets\oreshardtofind\models\item\iron_magnetometer.json
 4f3fbbb7b87f11e585a7a918436411360ab8a5ba assets\oreshardtofind\models\item\lapis_compass_22.json
 b6d33f640a0b76c2bb06d56466f243838d2881f6 assets\oreshardtofind\models\item\lapis_compass_14.json
+23ab3fbc11dfd489a3d86dceba61c7c38d16edec assets\oreshardtofind\models\item\stormbringer_bottle.json
 d2d180627f463ead985fdeeb9307b4755f4734e9 assets\oreshardtofind\models\item\gold_gravel_block.json
 da08c7e344e5130d4fa69f0194481f86f02de33d assets\oreshardtofind\models\item\lapis_compass_00.json
 e3751bbe488de0866181a0fc2961f4cc198cb24e assets\oreshardtofind\models\item\lapis_compass_30.json

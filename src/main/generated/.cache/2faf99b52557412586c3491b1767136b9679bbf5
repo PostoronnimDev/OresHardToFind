@@ -1,4 +1,4 @@
-// 1.21.1	2025-05-08T14:19:47.2888461	Ores Hard To Find/Tags for minecraft:block
+// 1.21.1	2025-05-08T19:15:27.0205505	Ores Hard To Find/Tags for minecraft:block
 3d7f4df7526988489f03633c18cb3f2d4d16ff37 data\oreshardtofind\tags\block\magnetite_ores.json
 e0ca621ed064eb482ba4f2b83c0333698041f4e7 data\minecraft\tags\block\lapis_ores.json
 f032184e391c1d5a4710233da8e72ef83684326b data\oreshardtofind\tags\block\needs_copper_tool.json
@@ -6,5 +6,5 @@ f032184e391c1d5a4710233da8e72ef83684326b data\oreshardtofind\tags\block\needs_co
 4c4a48a33bab0842c67ab94f8c3ab85811c332b7 data\minecraft\tags\block\mineable\pickaxe.json
 5a91455e93ce69fdee8adcccbb15807e6b1f4690 data\minecraft\tags\block\mineable\shovel.json
 8704797190b82f89d9335456a5d35ca2f6b69aea data\minecraft\tags\block\incorrect_for_stone_tool.json
-7b3b2ea194bac7031f730b920b7d9e42fb06910b data\minecraft\tags\block\gold_ores.json
 46b78ac4692e2ed8ed0877b36ebdf9f60f964c28 data\minecraft\tags\block\iron_ores.json
+7b3b2ea194bac7031f730b920b7d9e42fb06910b data\minecraft\tags\block\gold_ores.json
