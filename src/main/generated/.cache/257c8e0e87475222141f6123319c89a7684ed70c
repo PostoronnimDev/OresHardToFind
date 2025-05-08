@@ -1,6 +1,7 @@
-// 1.21.1	2025-05-07T22:44:22.224369	Ores Hard To Find/Recipes
+// 1.21.1	2025-05-08T14:19:47.2902566	Ores Hard To Find/Recipes
 25a4d7160fc041c25f1ebf66d1bf9b661f715485 data\oreshardtofind\recipe\magnetite_shard.json
 c8b69c31c6d9493937efc87d1885f45356bb41ff data\oreshardtofind\advancement\recipes\combat\copper_axe.json
+47008304a878dfffc5ffb9ac1ade1f7ba3010c66 data\oreshardtofind\recipe\lapis_compass.json
 ca7ab909c50c5b3fc551255825b202d4183e11ba data\oreshardtofind\advancement\recipes\tools\copper_magnetometer.json
 dff85b1b44837de01c492b1bf0b3ac63e9f1f8f3 data\oreshardtofind\advancement\recipes\combat\copper_boots.json
 a29c38cd0b957070a298cd584ec9e8d58fd22e17 data\oreshardtofind\recipe\copper_pickaxe.json
@@ -29,3 +30,4 @@ dc6ae42c029d9301b562f730dbc70df710fff78c data\oreshardtofind\advancement\recipes
 7d7050c50136df733d9b5b34a61943ed64c2c3a9 data\oreshardtofind\recipe\copper_sword.json
 449c666cf51fd368d6ea76ddadaf769dc02773df data\oreshardtofind\recipe\uncharged_magnet.json
 41c5e62455f09fd541cb95b6bb61320f4209127e data\oreshardtofind\recipe\copper_magnetometer.json
+353148e6dcfc9066cc820c38652895ff745df12b data\oreshardtofind\advancement\recipes\tools\lapis_compass.json

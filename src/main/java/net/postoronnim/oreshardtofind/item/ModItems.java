@@ -6,10 +6,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.postoronnim.oreshardtofind.OresHardToFind;
 import net.postoronnim.oreshardtofind.entity.ModEntities;
-import net.postoronnim.oreshardtofind.item.custom.CopperArmorItem;
-import net.postoronnim.oreshardtofind.item.custom.CopperMagnetometerItem;
-import net.postoronnim.oreshardtofind.item.custom.IronMagnetometerItem;
-import net.postoronnim.oreshardtofind.item.custom.NetheriteMagnetometerItem;
+import net.postoronnim.oreshardtofind.item.custom.*;
 
 public class ModItems {
 
@@ -25,6 +22,9 @@ public class ModItems {
             new IronMagnetometerItem(new Item.Settings()));
     public static final Item NETHERITE_MAGNETOMETER = registerItem("netherite_magnetometer",
             new NetheriteMagnetometerItem(new Item.Settings()));
+
+    public static final Item LAPIS_COMPASS = registerItem("lapis_compass",
+            new LapisCompassItem(new Item.Settings()));
 
     public static final Item COPPER_HELMET = registerItem("copper_helmet",
             new CopperArmorItem(ModArmorMaterials.COPPER_MATERIAL, ArmorItem.Type.HELMET, new Item.Settings()

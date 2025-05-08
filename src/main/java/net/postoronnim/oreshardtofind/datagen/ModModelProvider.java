@@ -2,10 +2,13 @@ package net.postoronnim.oreshardtofind.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
+import net.minecraft.client.item.CompassAnglePredicateProvider;
+import net.minecraft.client.item.ModelPredicateProviderRegistry;
 import net.minecraft.data.client.BlockStateModelGenerator;
 import net.minecraft.data.client.ItemModelGenerator;
 import net.minecraft.data.client.Model;
 import net.minecraft.data.client.Models;
+import net.minecraft.item.Items;
 import net.minecraft.util.Identifier;
 import net.postoronnim.oreshardtofind.block.ModBlocks;
 import net.postoronnim.oreshardtofind.item.ModItems;
@@ -42,6 +45,9 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.IRON_MAGNETOMETER, Models.HANDHELD);
         itemModelGenerator.register(ModItems.NETHERITE_MAGNETOMETER, Models.HANDHELD);
 
+        itemModelGenerator.registerCompass(ModItems.LAPIS_COMPASS);
+
+//        ModelPredicateProviderRegistry.register(ModItems.LAPIS_COMPASS, new CompassAnglePredicateProvider(ModItems.LAPIS_COMPASS.));
 
 //        itemModelGenerator.register(ModItems.COPPER_SWORD, Models.HANDHELD);
 //        itemModelGenerator.register(ModItems.COPPER_PICKAXE, Models.HANDHELD);

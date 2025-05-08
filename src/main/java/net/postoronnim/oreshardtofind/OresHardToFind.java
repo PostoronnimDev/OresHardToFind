@@ -15,6 +15,7 @@ import net.postoronnim.oreshardtofind.item.ModArmorMaterials;
 import net.postoronnim.oreshardtofind.item.ModItemGroups;
 import net.postoronnim.oreshardtofind.item.ModItems;
 import net.postoronnim.oreshardtofind.loot_table.ModLootTables;
+import net.postoronnim.oreshardtofind.util.ModModelPredicates;
 import net.postoronnim.oreshardtofind.world.gen.ModWorldGeneration;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -32,6 +33,8 @@ public class OresHardToFind implements ModInitializer {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
+
+		ModModelPredicates.registerModelPredicates();
 
 		ModBlockEntities.registerModBlockEntities();
 

@@ -44,6 +44,7 @@ public class ModItemGroups {
                         entries.add(ModItems.COPPER_MAGNETOMETER);
                         entries.add(ModItems.IRON_MAGNETOMETER);
                         entries.add(ModItems.NETHERITE_MAGNETOMETER);
+                        entries.add(ModItems.LAPIS_COMPASS);
 
                         //spawn eggs
                         entries.add(ModItems.IRON_ORE_GOLEM_SPAWN_EGG);

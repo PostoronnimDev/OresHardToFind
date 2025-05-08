@@ -20,6 +20,8 @@
   "item.oreshardtofind.iron_magnetometer": "§eIron Magnetometer",
   "item.oreshardtofind.netherite_magnetometer": "§bNetherite Magnetometer",
 
+  "item.oreshardtofind.lapis_compass": "§eLapis Compass",
+
   "item.oreshardtofind.copper_sword": "Copper Sword",
   "item.oreshardtofind.copper_pickaxe": "Copper Pickaxe",
   "item.oreshardtofind.copper_shovel": "Copper Shovel",
@@ -34,6 +36,7 @@
   "item.oreshardtofind.iron_ore_golem_spawn_egg": "Iron Ore Golem Egg",
 
   "tooltip.oreshardtofind.uncharged_block.tooltip": "Can be charged with power of §e§oLightning§r!",
+  "tooltip.oreshardtofind.lapis_compass.tooltip": "Points somewhere deep and dark...",
 
   "itemgroup.oreshardtofind.oreshardtofind_items_group": "Ores Hard To Find",
 

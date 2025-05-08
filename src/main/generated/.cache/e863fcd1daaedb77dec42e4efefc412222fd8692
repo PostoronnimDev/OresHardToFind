@@ -1,4 +1,4 @@
-// 1.21.1	2025-05-07T22:44:22.2229413	Ores Hard To Find/
+// 1.21.1	2025-05-08T14:19:47.2888461	Ores Hard To Find/
 1f7c20a26d95824a9f791de2f04d2e62159a6787 data\oreshardtofind\worldgen\placed_feature\magnetite_brushable_ore_water_placed.json
 10dfa272efebfd69e060f95c7415c2b3a3bd469a data\oreshardtofind\worldgen\placed_feature\brushable_gold_water_placed.json
 3293e9be54b7e938f9f146a4c2b9d93ccebb7fa7 data\oreshardtofind\worldgen\configured_feature\magnetite_brushable_ore_water.json
@@ -10,6 +10,6 @@
 5fb03327e6680c8f7bb625d67ecc4a1a1d832b54 data\oreshardtofind\worldgen\placed_feature\shrieking_diamond_ore_placed.json
 3171a26fb9920666f2bf2ffcc1f97a19d593a3e5 data\oreshardtofind\worldgen\configured_feature\lapis_geode.json
 857c0eee7226aa0836304d10c60be622e0665528 data\oreshardtofind\worldgen\configured_feature\brushable_gold_water.json
-c77253a7bc22b16dd26a817c8d8598d4c2376c8f data\oreshardtofind\worldgen\configured_feature\redstone_core_vein.json
 c67d0f85b2dc2c1c585ddcc1df215842b10b85c7 data\oreshardtofind\worldgen\configured_feature\shrieking_diamond_ore.json
+c77253a7bc22b16dd26a817c8d8598d4c2376c8f data\oreshardtofind\worldgen\configured_feature\redstone_core_vein.json
 de7394af8f01569c6fcb3095d9db3c36908f48c8 data\oreshardtofind\worldgen\placed_feature\sus_iron_ore_placed.json

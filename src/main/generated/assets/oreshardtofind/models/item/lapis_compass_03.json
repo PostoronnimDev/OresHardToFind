@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "oreshardtofind:item/lapis_compass_03"
+  }
+}

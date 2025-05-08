@@ -61,6 +61,16 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(Blocks.LODESTONE.asItem()), conditionsFromItem(Blocks.LODESTONE.asItem()))
                 .offerTo(exporter);
 
+        ShapedRecipeJsonBuilder.create(RecipeCategory.TOOLS, ModItems.LAPIS_COMPASS)
+                .pattern("GLG")
+                .pattern("LCL")
+                .pattern("GLG")
+                .input('G', Items.GOLD_INGOT)
+                .input('L', Blocks.LAPIS_BLOCK)
+                .input('C', Items.COMPASS)
+                .criterion(hasItem(Items.LAPIS_LAZULI), conditionsFromItem(Items.LAPIS_LAZULI))
+                .offerTo(exporter);
+
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.UNCHARGED_MAGNET)
                 .pattern("MMM")
                 .pattern("MIM")
