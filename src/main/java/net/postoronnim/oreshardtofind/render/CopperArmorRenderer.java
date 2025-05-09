@@ -16,6 +16,7 @@ import net.minecraft.item.ArmorItem;
 import net.minecraft.item.ArmorMaterial;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
+import net.postoronnim.oreshardtofind.item.custom.CopperArmorItem;
 
 import java.util.List;
 
@@ -61,12 +62,15 @@ public class CopperArmorRenderer implements ArmorRenderer {
     private static ArmorMaterial.Layer getLayer(ArmorMaterial armorMaterial, ItemStack itemStack) {
         List<ArmorMaterial.Layer> layers = armorMaterial.layers();
 
-        float durabilityRatio = (float) itemStack.getDamage() / itemStack.getMaxDamage();
+        if(itemStack.getItem() instanceof CopperArmorItem) {
+            float durabilityRatio = (float) itemStack.getDamage() / itemStack.getMaxDamage();
 
-        return durabilityRatio > 0.75f ?  layers.get(3):
-                durabilityRatio > 0.5f ? layers.get(2) :
-                        durabilityRatio > 0.25f ? layers.get(1) :
-                                layers.get(0);
+            return durabilityRatio > 0.75f ?  layers.get(3):
+                    durabilityRatio > 0.5f ? layers.get(2) :
+                            durabilityRatio > 0.25f ? layers.get(1) :
+                                    layers.get(0);
+        }
+        return armorMaterial.layers().getFirst();
     }
 
     private void renderArmorParts(MatrixStack matrices, VertexConsumerProvider vertexConsumers, int light, ArmorEntityModel<LivingEntity> model, Identifier identifier) {

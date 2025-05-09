@@ -1,0 +1,48 @@
+{
+  "block.oreshardtofind.gold_sand_block": "Золотой песок",
+  "block.oreshardtofind.gold_gravel_block": "Золотой гравий",
+  "block.oreshardtofind.gold_clay_block": "Золотая глина",
+
+  "block.oreshardtofind.shrieking_diamond_ore": "Кричащая алмазная руда",
+  "block.oreshardtofind.sus_deepslate_iron_ore": "Подозрительный железоносный глубинный сланец",
+  "block.oreshardtofind.calcite_lapis_ore": "Лазуритовая руда в кальците",
+
+  "block.oreshardtofind.magnetite_block": "Магнетитовый блок",
+  "block.oreshardtofind.magnetite_gravel_block": "Магнетитовый гравий",
+  "block.oreshardtofind.magnetite_sand_block": "Магнетитовый песок",
+
+  "block.oreshardtofind.uncharged_magnet": "Незаряженный магнит",
+  "block.oreshardtofind.charged_magnet": "§bЗаряженный магнит",
+
+  "item.oreshardtofind.magnetite_shard": "Осколок магнетита",
+
+  "item.oreshardtofind.copper_magnetometer": "Медный магнитометр",
+  "item.oreshardtofind.iron_magnetometer": "§eЖелезный магнитометр",
+  "item.oreshardtofind.netherite_magnetometer": "§bНезеритовый магнитометр",
+
+  "item.oreshardtofind.lapis_compass": "§eЛазуритовый компас",
+
+  "item.oreshardtofind.copper_sword": "Медный меч",
+  "item.oreshardtofind.copper_pickaxe": "Медная кирка",
+  "item.oreshardtofind.copper_shovel": "Медная лопата",
+  "item.oreshardtofind.copper_axe": "Медный топор",
+  "item.oreshardtofind.copper_hoe": "Медная мотыга",
+
+  "item.oreshardtofind.copper_helmet": "Медный шлем",
+  "item.oreshardtofind.copper_chestplate": "Медный нагрудник",
+  "item.oreshardtofind.copper_leggings": "Медные поножи",
+  "item.oreshardtofind.copper_boots": "Медные ботинки",
+
+  "item.oreshardtofind.iron_ore_golem_spawn_egg": "Яйцо призыва железнорудного голема",
+
+  "item.oreshardtofind.stormbringer_bottle": "§eБуря в бутылке",
+
+  "effect.oreshardtofind.stormbringer": "Призыватель бури",
+
+  "tooltip.oreshardtofind.uncharged_block.tooltip": "Можно зарядить силой §e§oмолнии§r!",
+  "tooltip.oreshardtofind.lapis_compass.tooltip": "Указывает в тёмные глубины...",
+
+  "itemgroup.oreshardtofind.oreshardtofind_items_group": "Руды, которые трудно найти",
+
+  "entity.oreshardtofind.iron_ore_golem": "Железнорудный голем"
+}

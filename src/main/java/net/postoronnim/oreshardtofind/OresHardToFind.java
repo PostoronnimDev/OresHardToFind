@@ -66,10 +66,11 @@ public class OresHardToFind implements ModInitializer {
 		FabricDefaultAttributeRegistry.register(ModEntities.IRON_ORE_GOLEM, IronOreGolemEntity.createAttributes());
 
 		TradeOfferHelper.registerVillagerOffers(VillagerProfession.CLERIC, 1, factories -> {
-			factories.add((entity, random) -> new TradeOffer(
+			factories.add((entity, random) -> {
+				return new TradeOffer(
 					new TradedItem(Items.EMERALD, 14),
-					new ItemStack(ModItems.STORMBRINGER_BOTTLE, 1), 1, 7, 0.04f
-			));
+					new ItemStack(ModItems.STORMBRINGER_BOTTLE, 1), 1, 5, 0.04f);
+			});
 		});
 
 		LOGGER.info("Hello Fabric world!");
